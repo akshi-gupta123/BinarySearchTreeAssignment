@@ -16,6 +16,6 @@ public class MyMain {
         //tree.inOrder(tree.getRoot());
         tree.insert(70);
         //tree.inOrder(tree.getRoot());
-        //System.out.println(tree.search(20));
+        System.out.println(tree.search(20));
     }
 }
