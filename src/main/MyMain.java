@@ -13,9 +13,9 @@ public class MyMain {
         tree.insert(40);
         tree.insert(50);
         tree.insert(60);
-        //tree.inOrder(tree.getRoot());
+        tree.inOrder(tree.getRoot());
         tree.insert(70);
-        //tree.inOrder(tree.getRoot());
+        tree.inOrder(tree.getRoot());
         System.out.println(tree.search(20));
     }
 }
